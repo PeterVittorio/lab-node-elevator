@@ -1,0 +1,14 @@
+{
+  "name": "elevator",
+  "version": "1.0.0",
+  "description": "elevator node app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Peter",
+  "license": "ISC",
+  "dependencies": {
+    "lodash": "^4.17.4"
+  }
+}
